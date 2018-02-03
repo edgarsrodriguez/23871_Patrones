@@ -1,0 +1,6 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\bin\Debug\180126_Practica02.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\bin\Debug\180126_Practica02.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\bin\Debug\180126_Practica02.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\obj\Debug\180126_Practica02.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\obj\Debug\180126_Practica02.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180126_Practica02\180126_Practica02\obj\Debug\180126_Practica02.pdb
