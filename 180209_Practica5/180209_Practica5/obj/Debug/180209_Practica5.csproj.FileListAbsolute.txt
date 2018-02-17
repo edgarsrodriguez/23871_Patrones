@@ -1,0 +1,6 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\bin\Debug\180209_Practica5.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\bin\Debug\180209_Practica5.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\bin\Debug\180209_Practica5.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\obj\Debug\180209_Practica5.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\obj\Debug\180209_Practica5.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Patrones\180209_Practica5\180209_Practica5\obj\Debug\180209_Practica5.pdb
